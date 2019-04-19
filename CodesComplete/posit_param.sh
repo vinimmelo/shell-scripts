@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 # posit-param: script to view command line parameters
 
