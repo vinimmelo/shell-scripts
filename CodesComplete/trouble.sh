@@ -1,4 +1,4 @@
-#!/bin/sh -x
+#!/bin/bash -x
 
 # trouble: script to demonstrate common errors
 set -x

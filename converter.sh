@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # converter: convert images jpg to png, accordly with parameter.
 
